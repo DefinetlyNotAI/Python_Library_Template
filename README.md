@@ -1,1 +1,3 @@
-# IG_Python_Library
+# Guide to Upload PyPI libraries
+
+Find the info in the txt file
