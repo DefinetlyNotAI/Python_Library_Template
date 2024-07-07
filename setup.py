@@ -7,23 +7,19 @@ setup(
     description="CHANGE ME",
     author="CHANGE ME",
     author_email="CHANGE ME",
-    url="https://github.com/DefinetlyNotAI/IG_Python_Library",
+    url="CHANGE ME",
     classifiers=[
-        "Development Status :: 3 - Alpha",
-        "Intended Audience :: Developers",
-        "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-        "Programming Language :: Python :: 3.8",
-        "Programming Language :: Python :: 3.9",
+        "Development Status :: 3 - Alpha",  # Change as needed
+        "Intended Audience :: Developers",  # Change as needed
+        "License :: OSI Approved :: CHANGE ME License",
+        "Programming Language :: CHANGE ME (NAME) :: CHANGE ME (Version)",  # Repeat as needed
     ],
-    keywords="igcse computer science",
+    keywords="CHANGE ME","CHANGE ME",  # Repeat as needed
     install_requires=[
         # List your project's dependencies here.
     ],
     extras_require={
         # Optional dependencies
     },
-    python_requires='>=3.6',
+    python_requires='>=3.6',  # Change as needed
 )
